@@ -28,3 +28,7 @@ header {
     align-items: center;
     font-size: 30px;
 }
+
+.bg-selected{
+    background-color: rgb(91, 168, 236);
+}
